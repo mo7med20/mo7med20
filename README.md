@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### My Name: Mohamed
-#### me Will Be Developer's JavaScript
+#### Me Will Be Developer's JavaScript
 <!--
 **mo7med20/mo7med20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
