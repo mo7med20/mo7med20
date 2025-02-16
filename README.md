@@ -36,8 +36,8 @@ Feel free to explore my repositories and don't hesitate to reach out if you want
 
 ### Connect with me
 
-- [LinkedIn](https://linkedin.com/in/mo7med20)
-- [Twitter](https://twitter.com/mo7med20)
+- [LinkedIn](www.linkedin.com/in/mohamed-sameh22)
+- [Twitter](https://twitter.com)
 - [Personal Website](https://mo7med20.dev)
 
 Thanks for visiting my profile, and happy coding! 😄
