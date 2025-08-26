@@ -3,7 +3,7 @@
 I'm Mohamed, a passionate developer who loves coding and learning new technologies. Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on various web development projects.
-- 🌱 I’m currently learning React, Node.js, and cloud computing.
+- 🌱 I’m already know Vue, React, Node.js, JS, GO and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with advanced algorithms and data structures.
 - 💬 Ask me about anything related to web development.
