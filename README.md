@@ -38,6 +38,6 @@ Feel free to explore my repositories and don't hesitate to reach out if you want
 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-sameh22/)
 - [Twitter](https://twitter.com)
-- [Personal Website](https://mo7med20.dev)
+- [Personal Website](https://mohameds3meh.netlify.app/)
 
 Thanks for visiting my profile, and happy coding! 😄
