@@ -25,9 +25,9 @@ I'm Mohamed, a passionate developer who loves coding and learning new technologi
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/mo7med20/example-repo/pull/42) in [mo7med20/example-repo](https://github.com/mo7med20/example-repo)
+1. 🎉 Merged PR [#42](https://github.com/mo7med20/example-repo/pull/42) in [mo7med20/example-repo](https://github.com/mo7med20/dashbordstudentcard)
 2. 💬 Commented on [#101](https://github.com/mo7med20/example-repo/issues/101) in [mo7med20/example-repo](https://github.com/mo7med20/example-repo)
-3. 🚀 Deployed project to [example.com](https://example.com)
+3. 🚀 Deployed project to [example.com](https://mohameds3meh.netlify.app/)
 <!--END_SECTION:activity-->
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or have any questions!
