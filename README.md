@@ -7,7 +7,7 @@ I'm Mohamed, a passionate developer who loves coding and learning new technologi
 - 👯 I’m looking to collaborate on open-source projects.
 - 🤔 I’m looking for help with advanced algorithms and data structures.
 - 💬 Ask me about anything related to web development.
-- 📫 How to reach me: mo7med20@example.com
+- 📫 How to reach me: ms2323513@gmail.com
 - ⚡ Fun fact: I love playing chess and solving puzzles.
 
 ---
