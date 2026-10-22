@@ -1,14 +1,27 @@
-### Hi there 👋
+### Hi, I'm Mohamed 👋
 
-I'm Mohamed, a passionate developer who loves coding and learning new technologies. Welcome to my GitHub profile!
+I'm a passionate software developer who enjoys building modern, scalable, and user-friendly web applications. I work with React, Vue, Node.js, JavaScript, Go, and cloud technologies to create practical solutions that combine great user experience with solid backend architecture.
 
-- 🔭 I’m currently working on various web development projects.
-- 🌱 I’m already know Vue, React, Node.js, JS, GO and cloud computing.
-- 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with advanced algorithms and data structures.
-- 💬 Ask me about anything related to web development.
-- 📫 How to reach me: ms2323513@gmail.com
-- ⚡ Fun fact: I love playing chess and solving puzzles.
+- 🔭 Currently working on full-stack and cloud-based projects
+- 🌱 Strong with: Vue, React, Node.js, JavaScript, Go, and cloud computing
+- 👯 Open to collaborating on open-source and product-focused projects
+- 🤔 Interested in advanced algorithms, data structures, system design, and scalable applications
+- 💬 Ask me about frontend development, backend APIs, cloud services, and modern web apps
+- 📫 Reach me: ms2323513@gmail.com
+- ⚡ Fun fact: I love chess, problem-solving, and learning new technologies
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-FF9900?style=for-the-badge" alt="Cloud" />
+</p>
 
 ---
 
@@ -22,14 +35,10 @@ I'm Mohamed, a passionate developer who loves coding and learning new technologi
 
 ---
 
-Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or have any questions!
-
----
-
 ### Connect with me
 
-- [LinkedIn](https://www.linkedin.com/mohamed--sameh)
+- [LinkedIn](https://www.linkedin.com/in/mohamed--sameh)
 - [Twitter](https://x.com/MohamedSam7238)
 - [Personal Website](https://mohameds3meh.netlify.app/)
 
-Thanks for visiting my profile, and happy coding! 😄
+Thanks for visiting my profile — let’s build something amazing together! 😄
