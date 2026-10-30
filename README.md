@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./gatecore-emblem.jpg" width="160" alt="GateCore Sovereign Shield" style="border-radius: 20px; margin-bottom: 16px;" />
+
 # Mohamed Sameh
 
 **Systems Architect & Infrastructure Engineer**  
