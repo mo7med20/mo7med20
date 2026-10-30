@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./gatecore-emblem.jpg" width="160" alt="GateCore Sovereign Shield" style="border-radius: 20px; margin-bottom: 16px;" />
+<img src="./gatecore-logo.png" width="140" alt="GateCore Logo" style="border-radius: 18px; margin-bottom: 16px;" />
 
 # Mohamed Sameh
 
