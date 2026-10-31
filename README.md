@@ -76,7 +76,8 @@ GateCore is a single, zero-dependency Go binary combining a high-throughput L4/L
 
 ### 📬 Contact & Enterprise Inquiries
 
-* **Enterprise & Architecture Inquiries:** [ms2323513@gmail.com](mailto:ms2323513@gmail.com)
+* **Product Website:** [gatecore-gules.vercel.app](https://gatecore-gules.vercel.app/)
+* **Enterprise & Architecture Inquiries:** [mosameh2011@outlook.com](mailto:mosameh2011@outlook.com)
 * **LinkedIn:** [linkedin.com/in/mohamed--sameh](https://www.linkedin.com/in/mohamed--sameh)
 * **Twitter / X:** [@MohamedSam7238](https://x.com/MohamedSam7238)
 * **GitHub:** [@mo7med20](https://github.com/mo7med20)
